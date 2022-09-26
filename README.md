@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TobseFrank
 - 👀 I’m interested in programing and football.
-- 🌱 I’m currently learning java and javafx.
+- 🌱 I’m currently learning java and javafx, python and PyQt6.
 - 💞️ I’m looking to collaborate on, some interesting projects
 - 📫 How to reach me: TobiasFr1@yahoo.de
 
